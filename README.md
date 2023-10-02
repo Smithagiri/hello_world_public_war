@@ -1,2 +1,3 @@
-# hello_world_public_war
-hello_world_public_war
+Simple Maven Project
+
+test
